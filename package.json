@@ -1,5 +1,5 @@
 {
-  "name": "chokidar",
+  "name": "chokidar-bigint-stats",
   "description": "Minimal and efficient cross-platform file watching library",
   "version": "3.5.3",
   "homepage": "https://github.com/paulmillr/chokidar",
